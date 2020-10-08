@@ -1,33 +1,36 @@
-h1{
-    color: white;
-    border: 2px solid white;
-
-    font-family: RobotoDraft;
-    font-size: 40px;
-    font-weight: 300;
-
-    text-align: center;
-    letter-spacing: .25em;
-
-    padding: 16px;
-    margin-top: 100px;
-    margin-right: 575px;
-    margin-left: 225px;
-  }
-
-body{
-    background: url("1465147.jpg") no-repeat center fixed;
-    background-size: cover;
-  }
-
-p{
-  margin-right: 25px;
-  margin-left: 25px;
+* {
+	margin: 0;
+	padding: 0;
 }
 
-.about{
-  border-style: solid;
+.title{
   color: white;
+  border: 2px solid white;
+
+  font-family: RobotoDraft;
+  font-size: 60px;
+  font-weight: 300;
+  letter-spacing: .25em;
+  text-align: center;
+
+  padding: 16px;
+  margin-right: 350px;
+  }
+
+.myBackground{
+
+    background: url("1465147.jpg") no-repeat center scroll;
+    background-size: cover;
+
+    padding: 150px;
+
+  }
+
+.about{
+
+  font-family: RobotoDraft;
+  font-size: 20px;
+
   margin-top: 50px;
   margin-right: 400px;
   margin-left: 50px;
