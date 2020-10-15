@@ -18,7 +18,7 @@
 
   font-family: RobotoDraft;
   font-size: 100px;
-  font-weight: 300;
+  font-weight: 200;
   letter-spacing: .25em;
   text-align: center;
 
@@ -46,8 +46,24 @@
 	text-align: left;
 }
 
-.image{
+.learnMore{
+
+	font-family: RobotoDraft;
+	padding: 16px;
+}
+
+.image1{
 	margin-left: 1400px;
-	margin-top: -750px;
-	margin-bottom: 100px;
+	margin-bottom: 550px;
+	margin-top: -550px;
+
+	border: 5px solid;
+}
+
+.image2{
+	margin-left: 1400px;
+	margin-top: -500px;
+	margin-bottom: 250px;
+
+	border: 5px solid;
 }
