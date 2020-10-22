@@ -23,7 +23,7 @@
   text-align: center;
 
   padding: 20px;
-  margin-right: 500px;
+  margin-right: 35vw;
   }
 
 .myBackground{
@@ -31,7 +31,7 @@
     background: url("1465147.jpg") no-repeat center scroll;
     background-size: cover;
 
-    padding: 125px;
+    padding: 10%;
 
   }
 
@@ -41,30 +41,23 @@
   font-size: 18px;
 
 	padding: 16px;
-	padding-right: 500px;
+	padding-right: 35vw;
 
 	text-align: left;
 }
 
-.learnMore{
-
-	font-family: RobotoDraft;
-	padding: 16px;
-    font-weight: 500;
-}
-
 .image1{
-	margin-left: 950px;
-	margin-bottom: 800px;
-	margin-top: -650px;
+	margin-left: 70vw;
+	margin-top: -95vh;
+    margin-bottom: 95vh;
 
 	border: 5px solid;
 }
 
 .image2{
-	margin-left: 950px;
-	margin-top: -750px;
-	margin-bottom: 750px;
+	margin-left: 70vw;
+	margin-top: -85vh;
+    margin-bottom: 85vh;
 
 	border: 5px solid;
 }
