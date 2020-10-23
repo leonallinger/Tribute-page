@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 }
+/* This makes it so that there is not space betweent the background and the edge of the page */
 
 .aboutTitle{
 	border-bottom: 1px solid black;
@@ -11,6 +12,7 @@
 
 	padding: 16px;
 }
+/* This changes the size and font of the title for the about part */
 
 .title{
   color: white;
@@ -25,6 +27,7 @@
   padding: 20px;
   margin-right: 35vw;
   }
+/* This changes the size, font and placement of the main title */
 
 .myBackground{
 
@@ -34,6 +37,7 @@
     padding: 10%;
 
   }
+/* This changes the background behind the main title */
 
 .about{
 
@@ -45,6 +49,7 @@
 
 	text-align: left;
 }
+/* These are the settings for the about text */
 
 .image1{
 	margin-left: 70vw;
@@ -53,7 +58,7 @@
 
 	border: 5px solid;
 }
-
+/* These two are the settings for the two images */
 .image2{
 	margin-left: 70vw;
 	margin-top: -85vh;
